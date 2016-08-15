@@ -10,5 +10,7 @@
         first: "Michel",
         last: "Sterling"
       };
+
+      $scope.message = "Hello, World!";
     })
 })();
